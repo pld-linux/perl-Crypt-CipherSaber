@@ -28,7 +28,7 @@ interfejs do szyfrów CipherSaber-1 i CipherSaber-2.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
