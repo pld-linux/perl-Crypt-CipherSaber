@@ -6,7 +6,8 @@ Summary(pl):	Modu³ Perla Crypt::CipherSaber - interfejs do szyfrów CipherSaber 1
 Name:		perl-Crypt-CipherSaber
 Version:	0.61
 Release:	2
-License:	Artistic or GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	ab70b3b1f8cc4397c7601376428d1efb
