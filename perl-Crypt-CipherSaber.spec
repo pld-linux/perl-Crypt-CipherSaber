@@ -5,7 +5,7 @@ Summary:	Crypt::CipherSaber Perl module - interface to CipherSaber 1 and 2 encry
 Summary(pl):	Modu³ Perla Crypt::CipherSaber - interfejs do szyfrów CipherSaber 1 i 2
 Name:		perl-Crypt-CipherSaber
 Version:	0.61
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
