@@ -4,13 +4,14 @@
 Summary:	Crypt::CipherSaber Perl module - interface to CipherSaber 1 and 2 encryptions
 Summary(pl):	Modu³ Perla Crypt::CipherSaber - interfejs do szyfrów CipherSaber 1 i 2
 Name:		perl-Crypt-CipherSaber
-Version:	0.61
-Release:	3
+Version:	1.00
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	ab70b3b1f8cc4397c7601376428d1efb
+# Source0-md5:	a00b3e2591cc5f880a110cc53a0b2c7b
+URL:		http://search.cpan.org/dist/Crypt-CipherSaber/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
