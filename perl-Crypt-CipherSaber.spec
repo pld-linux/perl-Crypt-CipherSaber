@@ -2,7 +2,7 @@
 %define		pdir	Crypt
 %define		pnam	CipherSaber
 Summary:	Crypt::CipherSaber Perl module - interface to CipherSaber 1 and 2 encryptions
-Summary(pl):	Modu≥ Perla Crypt::CipherSaber - interfejs do szyfrÛw CipherSaber 1 i 2
+Summary(pl.UTF-8):   Modu≈Ç Perla Crypt::CipherSaber - interfejs do szyfr√≥w CipherSaber 1 i 2
 Name:		perl-Crypt-CipherSaber
 Version:	1.00
 Release:	1
@@ -21,9 +21,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Crypt::CipherSaber is a Perl module providing an object oriented
 interface to CipherSaber-1 and CipherSaber-2 encryption.
 
-%description -l pl
-Crypt::CipherSaber to modu≥ Perla daj±cy obiektowo zorientowany
-interfejs do szyfrÛw CipherSaber-1 i CipherSaber-2.
+%description -l pl.UTF-8
+Crypt::CipherSaber to modu≈Ç Perla dajƒÖcy obiektowo zorientowany
+interfejs do szyfr√≥w CipherSaber-1 i CipherSaber-2.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
