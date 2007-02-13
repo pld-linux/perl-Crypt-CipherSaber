@@ -2,7 +2,7 @@
 %define		pdir	Crypt
 %define		pnam	CipherSaber
 Summary:	Crypt::CipherSaber Perl module - interface to CipherSaber 1 and 2 encryptions
-Summary(pl.UTF-8):   Moduł Perla Crypt::CipherSaber - interfejs do szyfrów CipherSaber 1 i 2
+Summary(pl.UTF-8):	Moduł Perla Crypt::CipherSaber - interfejs do szyfrów CipherSaber 1 i 2
 Name:		perl-Crypt-CipherSaber
 Version:	1.00
 Release:	1
