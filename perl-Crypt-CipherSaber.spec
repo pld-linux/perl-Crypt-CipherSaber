@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Crypt
 %define		pnam	CipherSaber
 Summary:	Crypt::CipherSaber Perl module - interface to CipherSaber 1 and 2 encryptions
